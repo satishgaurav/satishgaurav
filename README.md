@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### Hi there, I'm Satish Gaurav 👋
+
+
+![satishgaurav stats overview](https://github-readme-stats.vercel.app/api?username=satishgaurav&count_private=true&show_icons=true)
+![satishgaurav languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satishgaurav&layout=compact&hide=eagle)
