@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 Currently working with micorcontroller(s). I am passinate about programming & engineering. 
 
 ![satishgaurav stats overview](https://github-readme-stats.vercel.app/api?username=satishgaurav&count_private=true&show_icons=true)
-![satishgaurav languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satishgaurav&layout=compact&hide=eagle,scss,less,Jupyter Notebook)
+![satishgaurav languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satishgaurav&layout=compact&hide=scss,less&langs_count=10&count_private=true)
