@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 -->
 
 
-### Hi there, I'm Satish Gaurav 👋
-Currently working with micorcontroller(s). I am passinate about programming & engineering. 
+### Hi there 👋
+Currently working with microcontroller(s). I am passionate about programming & engineering. 
 
 ![satishgaurav stats overview](https://github-readme-stats.vercel.app/api?username=satishgaurav&count_private=true&show_icons=true)
 ![satishgaurav languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satishgaurav&layout=compact&hide=scss,less&langs_count=10&count_private=true)
