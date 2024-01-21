@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 ### Hi there 👋
-Currently, I work with ~~microcontrollers~~ tiny computers. 
+Currently, I am working with ~~microcontrollers~~ tiny computers. 
 
 <!--
 ![satishgaurav stats overview](https://github-readme-stats.vercel.app/api?username=satishgaurav&count_private=true&show_icons=true)
